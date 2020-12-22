@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 011c9e0f5db298d4488d7bc0cf855c59
+guid: d90996fd8e222de4daa3db0b1ac474d5
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Refrigerator
-    second: {fileID: 2100000, guid: 067680355cf42f748aa7a9a6cdae3bfd, type: 2}
+      name: Kitchen_Middle_White
+    second: {fileID: 2100000, guid: 8aea6df78ccb8924ba8943496ae1d1e0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
