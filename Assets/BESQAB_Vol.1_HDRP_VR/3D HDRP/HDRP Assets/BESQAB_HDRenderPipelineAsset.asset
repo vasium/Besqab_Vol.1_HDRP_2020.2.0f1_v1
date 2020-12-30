@@ -200,7 +200,7 @@ MonoBehaviour:
     supportShadowMask: 0
     supportSSR: 0
     supportSSRTransparent: 0
-    supportSSAO: 0
+    supportSSAO: 1
     supportSSGI: 0
     supportSubsurfaceScattering: 0
     sssSampleBudget:
@@ -444,6 +444,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 24e0e6b222bd67d49b384f7d5263f646, type: 2}
   - {fileID: 11400000, guid: 0555b85d7c4e088439e3a9c8b30b425c, type: 2}
   - {fileID: 11400000, guid: d34f1ecf58f0a964abf5124878872725, type: 2}
+  - {fileID: 11400000, guid: 55ba79086f4f04243bc01fc1a5e81bdf, type: 2}
   beforeTransparentCustomPostProcesses: []
   beforeTAACustomPostProcesses: []
   beforePostProcessCustomPostProcesses: []
